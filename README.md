@@ -1,5 +1,11 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I´m Dinis 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dinizoides&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinizoides&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+- 🔭 I’m currently working on [Wallstreeters](https://wallstreeters.pt)
+- 🌱 I’m currently learning API backend in Go
+-  :books: I worked with C, Java, Python, OCaml, Prolog, PostgreSQL, etc.
+
 <!--
 **Dinizoides/Dinizoides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
